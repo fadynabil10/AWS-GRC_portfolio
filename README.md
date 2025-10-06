@@ -1,6 +1,6 @@
 # GRC Portfolio Hub
 
-  [![Test Suite](https://github.com/ajy0127/grc_portfolio/actions/workflows/test.yml/badge.svg)](https://github.com/ajy0127/grc_portfolio/actions/workflows/test.yml)
+  [![Test Suite](https://github.com/fadynabil10/AWS-GRC_portfolio/actions/workflows/test.yml/badge.svg)](https://github.com/fadynabil10/AWS-GRC_portfolio/actions/workflows/test.yml)
 
 
 <p align="center">
@@ -21,19 +21,6 @@
 This GRC Portfolio Hub is my initiative to empower Governance, Risk, and Compliance professionals in showcasing their practical AWS GRC engineering implementation skills. Drawing from my 15 years of cybersecurity experience and deep expertise in GRC Engineering, I've created this repository to bridge the gap between theoretical knowledge and hands-on expertise by providing ready-to-deploy labs, comprehensive guidance, and a structured portfolio framework.
 
 My mission is to create the industry's premier open-source resource for GRC professionals to demonstrate practical AWS GRC engineering skills through guided, hands-on experiences that directly align with employer needs and AWS best practices.
-
-## About the Author
-
-I'm [AJ Yawn](https://www.linkedin.com/in/ajyawn/), a cybersecurity professional with nearly 15 years of experience specializing in GRC Engineering and compliance automation. My journey includes:
-
-- **Military Leadership**: Served as a U.S. Army Officer in the Signal Corps, achieving the rank of Captain
-- **Consulting Excellence**: At Coalfire, helped grow the compliance practice from 9 to 100+ people, advancing from junior auditor to principal consultant
-- **Entrepreneurial Success**: Founded ByteChek, a compliance automation startup that achieved $1M+ Annual Recurring Revenue, focusing on SOC 2 and HIPAA automation
-- **Corporate Innovation**: Served as a Partner at Armanino (Top 20 CPA firm), leading product and innovation initiatives including a audit automation tool. 
-- **LinkedIn Learning and SANS Instrucutor**: Teach courses on cloud compliance and automation at the SANS Institute and have educated over 125K learners on LinkedIn Learning including GRC courses. 
-- **Current Role**: Director of GRC Engineering at Aquia
-
-Throughout my career, I've been driven by the mission to make compliance more efficient and accessible through automation and engineering principles. This portfolio hub represents a culmination of my experiences and lessons learned in GRC Engineering.
 
 ## What's Inside
 
@@ -85,20 +72,6 @@ Each lab includes:
 - Validation checklists and troubleshooting guides
 - Advanced challenges to extend your learning
 
-## Future Labs (Coming Weekly)
-
-Following our progressive release strategy, we'll be introducing new labs regularly, covering:
-
-- **Identity and Access Management (IAM)**: Implementation of least privilege access controls
-- **Security Automation with Infrastructure as Code**: Implementing security guardrails through IaC
-- **Security Monitoring and Incident Response**: Setting up effective monitoring systems
-- **Compliance Automation**: Streamlining regulatory compliance
-- **Data Security and Protection**: Ensuring data confidentiality and integrity
-- **Risk Assessment and Threat Modeling**: Methodologies for AWS environments
-- **Infrastructure and Network Protection**: Securing AWS networking components
-- **Incident Response and Recovery**: Creating effective incident handling procedures
-- **Policy as Code**: Implementation of scalable policy management via CI/CD
-- **Advanced Capstone Projects**: End-to-end implementations that combine concepts from multiple domains
 
 ## Resources
 
